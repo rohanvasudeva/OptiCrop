@@ -129,9 +129,12 @@ http://127.0.0.1:5000
 
 ## Model Performance
 
-| Metric | Score |
-|---------|-------|
-| Accuracy | **96.76%** |
+| Metric    | Score     |
+|-----------|-----------|
+| Accuracy  | **96.76%** |
+| Precision | **0.969** | 
+| Recall    | **0.9676** |
+| F1-Score  | **0.9677** |
 
 The trained Logistic Regression model achieved an overall accuracy of **96.76%**, demonstrating reliable crop recommendation performance.
 
