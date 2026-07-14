@@ -2,6 +2,8 @@
 
 OptiCrop is a machine learning-based web application that recommends the most suitable crop based on soil nutrients and environmental conditions. It helps farmers make data-driven decisions to improve agricultural productivity and resource utilization.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Application-brightgreen?style=flat-square&logo=render&logoColor=white)](https://opticrop-2-s4l5.onrender.com/)
+
 ---
 
 ## Features
