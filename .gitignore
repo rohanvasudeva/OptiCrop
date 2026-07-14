@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment Variables
+.env
+
+# Python Distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Model Cache
+.cache/
+
+# Flask
+instance/
+.flaskenv
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Bytecode
+*.pyo
+*.pyd
+
+# SQLite
+*.db
+*.sqlite3
+
+# Uploaded Files
+uploads/
+
+# Generated Files
+*.bak
+
+# Local configuration
+config.py
+
+# Ignore generated datasets (optional)
+# data/
+# dataset/
+
+# Keep trained model in repository
+# model.pkl
