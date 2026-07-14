@@ -72,7 +72,7 @@ OptiCrop/
 Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/rohanvasudeva/OptiCrop.git
 ```
 
 Move into the project directory
@@ -113,21 +113,6 @@ Open your browser and visit
 ```
 http://127.0.0.1:5000
 ```
-
----
-
-## Machine Learning Workflow
-
-1. Load Dataset
-2. Data Preprocessing
-3. Exploratory Data Analysis
-4. Train-Test Split
-5. Model Training
-6. Model Evaluation
-7. Model Serialization (`model.pkl`)
-8. Flask Deployment
-
----
 
 ## Model Performance
 
